@@ -6,6 +6,9 @@ layout: page
 title: Microtipper
 ---
 
-benefits of this microtipper
+## What is microtipper?
 
-- can make contributions that are very small :)
+#### A product that allows you to donate to people and organisations you support in smaller amounts!
+
+#### The idea is that every small amount adds up to a total larger amount!
+
